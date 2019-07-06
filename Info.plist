@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Hyro Vitaly Protago</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Express</string>
+		<string>Request</string>
+		<string>Response</string>
+		<string>HTML</string>
+		<string>Env</string>
+		<string>Table</string>
+	</array>
+	<key>Description</key>
+	<string>AirCode in Codea</string>
+</dict>
+</plist>
