@@ -16,6 +16,7 @@ Some additional features compared to AirCode:
 - You can play/pause (if you use the update callback), enable/disable autoplay and autosave
 - Alt-s to save the project (only useful if autosave mode is disabled)
 - Alt-r to restart the project
+- Alt-t to create a project tab
 - Alt-w to remove the current project tab
 
 The autoplay don't restart entirely the project, in other words, it doesn't run again the setup function, but all others variables and functions are updated. This kind of hot-reload allow to keep context between changes.
